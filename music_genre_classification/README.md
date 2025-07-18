@@ -1,7 +1,7 @@
 
 # 🎵 Music Genre Classification
+🎵 CNN-based Music Genre Classifier using Python, Librosa, and Keras
 
-CNN-based music genre classifier using Librosa and Keras trained on the GTZAN dataset.
 
 ## Features
 - Extract MFCC from audio
